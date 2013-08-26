@@ -10,7 +10,7 @@ title: Getting Ready
 * [What is the engineering interview process like at Stripe?](http://www.quora.com/Stripe-company/What-is-the-engineering-interview-process-like-at-Stripe)
 * [Building a Brand without Being Douchey](http://vimeo.com/71685072)
 
-## Resumes
+## Resume
 Have Elliot, your mentor(s) and me take a look at your resumes. Tell more about yourself than the traditional stuff. I enjoy seeing:
 
 * Open source contributions detailed
@@ -18,8 +18,20 @@ Have Elliot, your mentor(s) and me take a look at your resumes. Tell more about 
 * List technologies based on level of expertise
 * [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
 
+## LinkedIn
+### Summary
+Keep your linked in summary short and sweet and unique. Talk about what you bring to the table because of your background and tie it to how it helps you be a more effective developer. Talk about what your dream job is.
+
+### How to Describe Your time at DBC
+Put Dev Bootcamp as an "Experience" instead of "Education" so that you have more control of where it shows up on the page
+
+### Projects
+Put each of the projects you're proud of at Dev Bootcamp (Say, final project, phase 2 final projects) as linked in projects so that people see how you're skills have grown
+
 ## Personal Site
-Try [Github pages](https://help.github.com/articles/creating-pages-with-the-automatic-generator) (with Jekyll)
+### Options
+* Try [Github pages](https://help.github.com/articles/creating-pages-with-the-automatic-generator) (with Jekyll)
+* For those of you without a personal blog, set up a http://coderwall.com profile, and make that your website on LinkedIn.
 
 Some examples of personal sites:
 
@@ -30,9 +42,8 @@ Some examples of personal sites:
 
 __SHOW PROGRESS__ Don't hide your 'bad' early work. Let the world know how you've grown. Humility is a highly prized value in this industry.
 
-
 ## Github Profile
-Clean up any cruft. Todo:
+### Clean up any cruft:
 
 * Remove unprofessional stuff (anything that might be offensive, i.e. swear words)
 * Empty projects (forks that were never modified)
@@ -41,6 +52,9 @@ Clean up any cruft. Todo:
 * Ensure your project can be cloned and run without errors
 * __SHOW PROGRESS__
 * Do some things that are lower level or outside the typical stack of a web developer. These projects are great conversation pieces during an interview.
+
+### Highlight Your Best Work
+Fork your final projects to your repository, and ask people to star the 5 projects you're most proud of so they show up as the popular repositories on your github page
 
 ## Tools
 * Google/Twitter/Github are your starting points for getting a peek inside a company.

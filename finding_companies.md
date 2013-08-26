@@ -9,3 +9,9 @@ title: Finding Companies
 * github's job board
 * smashing magazines job board
 * mashables job board
+* Angel list
+* Stack Overflow
+* Built in Chicago
+* Bright.com
+* Craigslist
+* twitter - using twitter search
