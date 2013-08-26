@@ -8,6 +8,7 @@ title: Getting Ready
 * [How to Get Hired When You're Just Starting Out](http://99u.com/articles/7275/How-to-Get-Hired-When-You-Are-Just-Starting-Out)
 * [How Braintree Interviews Developers](https://www.braintreepayments.com/braintrust/how-braintree-interviews-exceptional-developers)
 * [What is the engineering interview process like at Stripe?](http://www.quora.com/Stripe-company/What-is-the-engineering-interview-process-like-at-Stripe)
+* [Hiring Engineers, a Process](http://hueniverse.com/2013/02/hiring-engineers-a-process/)
 * [Building a Brand without Being Douchey](http://vimeo.com/71685072)
 
 ## Resume
@@ -38,6 +39,7 @@ Some examples of personal sites:
 * [Mitch](http://dontmitch.github.io/)
 * [Andrew](http://www.devsquirrel.com/dev)
 * [Codesnippets (Liz)](http://www.codesnippets.io/)
+* [Trevor Turk](http://trevorturk.com/37signals/)
 * [Sites that landed jobs at 37 Signals](http://37signals.com/svn/posts/2709-sites-that-landed-jobs-at-37signals)
 
 __SHOW PROGRESS__ Don't hide your 'bad' early work. Let the world know how you've grown. Humility is a highly prized value in this industry.
