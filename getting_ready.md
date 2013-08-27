@@ -4,6 +4,9 @@ title: Getting Ready
 ---
 
 # Getting Ready
+## Bootboard
+Creatng a [BootBoard](http://bootboard.devbootcamp.com/) profile should be your first step towards getting a job. We have a growing network of companies who are looking to hire DBC grads.
+
 ## Cover Letters
 Insert some info about writing a great cover letter.
 

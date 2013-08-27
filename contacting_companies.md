@@ -16,6 +16,8 @@ When pursuing companies you always want to first try and pursue them by:
 1. Getting introduced by someone you know to someone at that company.
 2. Find a way to meet someone from that company in person either at a meet up, user group, conference, etc.
 
+Start Sleuthing! You can find people's Twitter handles, email addresses or Meetup names just by trying the same username on another service. For example, have an engineer's Github profile name and want to follow them or ping them on Twitter....maybe they use the same name!
+
 If you can't do either of those, I suggest then doing this:
 
 3. Find a company.
@@ -26,3 +28,10 @@ If you can't do either of those, I suggest then doing this:
   * Find something they posted or wrote that really resonates with you and email them about that. Get the conversation started. don't email a bunch people/companies saying the same thing over and over "I really like your company, noticed you're hiring and would love an opportunity to chat with you, etc. etc."
   * Instead, research engineers at the companies you're interested in, find something you can relate or connect with them regarding and write them a short a sweet email complimenting something they did, wrote, posted, etc. 
   * Get dialogue going with people by complimenting and flattering them. Try and meet them if you're in the same city. Then once you have the conversation going and a rapport built, bring up the fact you're looking for a job and interested in their company.
+
+## Netorking 101
+Don't forget the obvious: eye contact, personal hygiene (clean finger nails! no boogers!)
+
+### Preparing for a Networking Event
+* Figure out who will be there. What have they done? Lookup their pictures & bios.
+* Find out who you want to talk to
