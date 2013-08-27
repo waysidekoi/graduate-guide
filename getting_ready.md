@@ -4,11 +4,12 @@ title: Getting Ready
 ---
 
 # Getting Ready
+## Cover Letters
+Insert some info about writing a great cover letter.
+
 ## Things to Read or Watch
 * [How to Get Hired When You're Just Starting Out](http://99u.com/articles/7275/How-to-Get-Hired-When-You-Are-Just-Starting-Out)
-* [How Braintree Interviews Developers](https://www.braintreepayments.com/braintrust/how-braintree-interviews-exceptional-developers)
-* [What is the engineering interview process like at Stripe?](http://www.quora.com/Stripe-company/What-is-the-engineering-interview-process-like-at-Stripe)
-* [Hiring Engineers, a Process](http://hueniverse.com/2013/02/hiring-engineers-a-process/)
+* [Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [Building a Brand without Being Douchey](http://vimeo.com/71685072)
 
 ## Resume
