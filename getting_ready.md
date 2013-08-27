@@ -7,18 +7,35 @@ title: Getting Ready
 ## Cover Letters
 Insert some info about writing a great cover letter.
 
+* [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+
 ## Things to Read or Watch
 * [How to Get Hired When You're Just Starting Out](http://99u.com/articles/7275/How-to-Get-Hired-When-You-Are-Just-Starting-Out)
 * [Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [Building a Brand without Being Douchey](http://vimeo.com/71685072)
 
 ## Resume
-Have Elliot, your mentor(s) and me take a look at your resumes. Tell more about yourself than the traditional stuff. I enjoy seeing:
+Have Elliot, your mentor(s) and me take a look at your resumes. Here are some of the basics you'll want to include:
+
+__Header:__ Name, Address, Phone Number, email, github, personal site
+
+__About Me:__ short and sweet blurb about you
+
+__Skills:__ Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, TDD. Do you have any other skills you bring from a previous career?
+
+__Personal Projects:__ What are you proud of? Show it off!
+
+__Experience:__ Be sure to use dates! Add Dev Bootcamp under Experience. If you stay for phase 4 add TA as your job title and leverage the fact you are doing code reviews, mentoring students, helping them refactor their apps, etc.
+
+__Education:__ Be sure to use dates! This should be your footer. Add dev Bootcamp but keep it short and sweet "9 week intensive web development bootcamp"
+
+
+Consider including non-traditional items. I enjoy seeing:
 
 * Open source contributions detailed
 * Books you've read recently
 * List technologies based on level of expertise
-* [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+
 
 ## LinkedIn
 ### Summary
@@ -63,5 +80,8 @@ Fork your final projects to your repository, and ask people to star the 5 projec
 * Google/Twitter/Github are your starting points for getting a peek inside a company.
 * [Rapportive](http://rapportive.com) Embeds social network from the people you email with into Gmail. ("twitter handle is @NNNNNN [follow]")
 * [The Muse](http://www.themuse.com/)
-* [Coderwall](coderwall.com)
-* [Crunchbase](crunchbase.com)
+* [Coderwall](http://coderwall.com)
+* [Crunchbase](http://crunchbase.com)
+* [Lanyard](http://lanyard.com)
+* [Meetup](http://meetup.com)
+* [Linkedin](http://linkedin.com)
