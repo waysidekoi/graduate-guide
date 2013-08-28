@@ -39,6 +39,8 @@ Consider including non-traditional items. I enjoy seeing:
 * Books you've read recently
 * List technologies based on level of expertise
 
+Check out this post: [Create a Great Resume](http://jobs.rubynow.com/create-a-great-rails-resume) for some more tips.
+
 
 ## LinkedIn
 ### Summary
