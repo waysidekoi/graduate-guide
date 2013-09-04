@@ -10,6 +10,7 @@ title: Interviewing
 * [What is the engineering interview process like at Stripe?](http://www.quora.com/Stripe-company/What-is-the-engineering-interview-process-like-at-Stripe)
 * [Hiring Engineers, a Process](http://hueniverse.com/2013/02/hiring-engineers-a-process/)
 * [Watch Jim Weirich solve roman numerals](http://www.youtube.com/watch?v=983zk0eqYLY)
+* [How 37 Signals evaluates engineers when they are hiring](http://37signals.com/svn/posts/2628-how-to-hire-a-programmer-when-youre-not-a-programmer)
 
 
 ## Advice
