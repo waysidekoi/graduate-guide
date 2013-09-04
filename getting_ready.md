@@ -16,6 +16,9 @@ Insert some info about writing a great cover letter.
 * [How to Get Hired When You're Just Starting Out](http://99u.com/articles/7275/How-to-Get-Hired-When-You-Are-Just-Starting-Out)
 * [Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [Building a Brand without Being Douchey](http://vimeo.com/71685072)
+* [Pixar's 22 Rules of Storytelling (For writing your about me and telling your story about your path to becoming a programmer so far)](http://aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
+* [How to get the word out about your startup (Most of which also applies to "How to get the word out about your new skills and the fact you're interested in talking to companies")](http://www.fastcolabs.com/3014157/open-company/how-to-really-get-the-word-out-about-your-startup)
+* [Code to Code By - Great post highlighting what employers care about](http://www.brighttag.com/2012/03/01/a-code-to-code-by/)
 
 ## Resume
 Have Elliot, your mentor(s) and me take a look at your resumes. Here are some of the basics you'll want to include:
@@ -43,6 +46,9 @@ Check out this post: [Create a Great Resume](http://jobs.rubynow.com/create-a-gr
 
 
 ## LinkedIn
+### Connections
+Connect with [Dave](www.linkedin.com/in/redsquirrel/) [Elliott](www.linkedin.com/in/elliottgarms/) [Nate](www.linkedin.com/pub/nate-delage/11/908/970)
+
 ### Summary
 Keep your linked in summary short and sweet and unique. Talk about what you bring to the table because of your background and tie it to how it helps you be a more effective developer. Talk about what your dream job is.
 

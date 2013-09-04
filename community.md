@@ -22,6 +22,7 @@ title: Community
 * Chicago Ember.js Meetup
 * Chicago Node.js Meetup
 * Chicago Python Meetup
+* Chicago HTML5 Meetup
 * Chicago Hadoop Meetup
 * Vim Chicago
 * Ruby Wednesdays at DevMynd
