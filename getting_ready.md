@@ -113,6 +113,5 @@ General Guidelines
 
 * DO: Fork one or more popular open-source projects, fix an open-issue or two, and submit pull requests. Involvement in open-source projects demonstrates passion above and beyond “I want a job”. Also, it’s good karma, and you might learn something!
 * DO: Start working on a real side project for something that you’re genuinely passionate about. Make sure the README.md file talks about what the point of the side-project is. Even if you don’t get very far on it, having a side-project that you really enjoy working on demonstrates both motivation and passion, two key attributes that hiring managers want to see.
-￼￼￼￼
 * DON’T: Fork a bunch of projects that you aren’t really working on just to make it look like you’re working on a lot of cool stuff. Savvy hiring managers will see right through this, and it reflects poorly on you. Instead, fork something to which you really do want to contribute (see above).
 * DON’T: Leave a bunch of clutter in your profile. Did you fork something to check it out and then abandon it? Go ahead and delete the repository. Have some code up there that you’re not proud of? Remove it, or at least update the README.md to say, “This was one of the first projects I worked on. I’m leaving it here as evidence that the quality of my code has improved.” or some such.
