@@ -26,17 +26,19 @@ title: Interviewing
 
 
 ### Interview Checklist:
-[ ] Read every word on every page of companies website
-[ ] Read every post on the companies blog.
-[ ] Read every post on companies engineering blog.
-[ ] Find company on Github - Study their code.  Do a tutorial for each technolgy the night before to make sure you are sharp for your interview. If the company is using technologies you're not expereinced with then start a project a before you interview as a way to brush up and something to reference when they ask you about technology X - "No i haven't worked with it much but after researching you guys I realized you use it a lot so I started a project. It's actually really cool, I like how technology X offers you the ability to do X, Y, Z blah blah blah. you get the point.
+
+* Read every word on every page of companies website
+* Read every post on the companies blog.
+* Read every post on companies engineering blog.
+* Find company on Github - Study their code.  Do a tutorial for each technolgy the night before to make sure you are sharp for your interview. If the company is using technologies you're not expereinced with then start a project a before you interview as a way to brush up and something to reference when they ask you about technology X - "No i haven't worked with it much but after researching you guys I realized you use it a lot so I started a project. It's actually really cool, I like how technology X offers you the ability to do X, Y, Z blah blah blah. you get the point.
 
 ### Be able to answer these questions about the company before your interview:
-[ ] What are the top 3 technologies they seem to be using most?
-[ ] What are they using those technologies for?
-[ ] What is/are the founder(s) stories?
-[ ] How do they make money?
-[ ] Who is their competition?
-[ ] What problem are they solving?
-[ ] How many products does the company have? 
+
+* What are the top 3 technologies they seem to be using most?
+* What are they using those technologies for?
+* What is/are the founder(s) stories?
+* How do they make money?
+* Who is their competition?
+* What problem are they solving?
+* How many products does the company have? 
 
