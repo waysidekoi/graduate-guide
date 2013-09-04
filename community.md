@@ -40,6 +40,9 @@ title: Community
 
 Some of the most successful people in tech owe their success more to their community participation than they do being a hardcore programmer.
 
+"Find the most talented person in the room, and if it’s not you, go stand next to them. Hang out with them. Try to be helpful."
+
+
 # Who to Follow on Twitter
 * techmeme - tech news
 * cap - amazing designer
