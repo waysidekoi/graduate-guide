@@ -4,13 +4,9 @@ title: Getting Ready
 ---
 
 # Getting Ready
+
 ## Bootboard
 Creatng a [BootBoard](http://bootboard.devbootcamp.com/) profile should be your first step towards getting a job. We have a growing network of companies who are looking to hire DBC grads.
-
-## Cover Letters
-Insert some info about writing a great cover letter.
-
-* [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
 
 ## Things to Read or Watch
 * [How to Get Hired When You're Just Starting Out](http://99u.com/articles/7275/How-to-Get-Hired-When-You-Are-Just-Starting-Out)
@@ -19,6 +15,10 @@ Insert some info about writing a great cover letter.
 * [Pixar's 22 Rules of Storytelling (For writing your about me and telling your story about your path to becoming a programmer so far)](http://aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
 * [How to get the word out about your startup (Most of which also applies to "How to get the word out about your new skills and the fact you're interested in talking to companies")](http://www.fastcolabs.com/3014157/open-company/how-to-really-get-the-word-out-about-your-startup)
 * [Code to Code By - Great post highlighting what employers care about](http://www.brighttag.com/2012/03/01/a-code-to-code-by/)
+
+## Cover Letters
+
+* [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
 
 ## Resume
 Have Elliot, your mentor(s) and me take a look at your resumes. Here are some of the basics you'll want to include:
