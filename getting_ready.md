@@ -24,7 +24,7 @@ __Header:__ Name, Address, Phone Number, email, github, personal site
 
 __About Me:__ short and sweet blurb about you
 
-__Skills:__ Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, TDD. Do you have any other skills you bring from a previous career?
+__Skills:__ Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, TDD. Active Record, Git, jQuery, HAML, SASS, SQL (PostgreSQL and Sqlite) Heroku.Do you have any other skills you bring from a previous career?
 
 __Personal Projects:__ What are you proud of? Show it off!
 
@@ -90,3 +90,23 @@ Fork your final projects to your repository, and ask people to star the 5 projec
 * [Lanyard](http://lanyard.com)
 * [Meetup](http://meetup.com)
 * [Linkedin](http://linkedin.com)
+
+### Making a Good Github Profile
+
+These days, savvy hiring managers are using Github to get a sense of whether or not a candidate is worth interviewing. As such, it’s in your best interests to take some time to “clean up” your Github presence so that you can make a good first impression:
+General Guidelines
+* Upload a gravatar (profile image). It’s really nice for hiring managers to have a face to put with your name.
+* Keep your contact information up-to-date. The last thing you want is to miss out on an opportunity because you forgot to update your email address!
+* Use clear, understandable project names for your projects, and add a description whenever possible.
+* If your project is running somewhere (e.g., Heroku), add a link to the running project in the README.md file within your project.
+* Consider creating a Github homepage like this one. Rails-Specific Guidelines
+* The “rails new” command generates a generic README.md file that talks all about Ruby on Rails. While that can be helpful to Rails newbies, on a github profile it ends up looking like a “junk” project. Take a few minutes to replace the README.md file with just a paragraph that at least explains what your project is. If it was a project for a DBC challenge, just say that, and perhaps enumerate the concepts that were learned while you worked on it.
+* Don’t use “rails generate scaffold”. If you have used it in one of your projects, make sure to go in and remove any files that haven’t been modified since you generated the scaffold. Definitely remove any comments that make it obvious that you used the “rails generate scaffold” command. Like the default README.md file, scaffolding give the impression that this was a junk project.
+
+### Do-s and Don’t-s
+
+* DO: Fork one or more popular open-source projects, fix an open-issue or two, and submit pull requests. Involvement in open-source projects demonstrates passion above and beyond “I want a job”. Also, it’s good karma, and you might learn something!
+* DO: Start working on a real side project for something that you’re genuinely passionate about. Make sure the README.md file talks about what the point of the side-project is. Even if you don’t get very far on it, having a side-project that you really enjoy working on demonstrates both motivation and passion, two key attributes that hiring managers want to see.
+￼￼￼￼
+* DON’T: Fork a bunch of projects that you aren’t really working on just to make it look like you’re working on a lot of cool stuff. Savvy hiring managers will see right through this, and it reflects poorly on you. Instead, fork something to which you really do want to contribute (see above).
+* DON’T: Leave a bunch of clutter in your profile. Did you fork something to check it out and then abandon it? Go ahead and delete the repository. Have some code up there that you’re not proud of? Remove it, or at least update the README.md to say, “This was one of the first projects I worked on. I’m leaving it here as evidence that the quality of my code has improved.” or some such.
