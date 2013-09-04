@@ -5,18 +5,44 @@ title: Community
 
 # Joining the Community
 
+* Speaking
+* Writing/Blogging
 * twitter
 * conferences
 * meetups -meetup.com
 * user groups
 * hackathons
-* coffee/lunch/beers
+* Buying people coffee/lunch/beers
+
+## Chicago Specific
+
+* Chicago Ruby
+* Chicago Javascript Meetup
+* Chicago Clojure Meetup
+* Chicago Ember.js Meetup
+* Chicago Node.js Meetup
+* Chicago Python Meetup
+* Chicago HTML5 Meetup
+* Chicago Hadoop Meetup
+* Vim Chicago
+* Ruby Wednesdays at DevMynd
+* 8th Light University every Friday
+* Geekfest at Groupon every Tuesday
+* Code and Coffee every Tuesday morning
+* Built in Chicago.com
 * Technori Pitch
 * Technori Unwind
 * Chicago Learn Startup Circle
 * Refresh Chicago
+* 1871's calendar of events
+* WindyCityRails - Yearly Ruby Conference in Chicago
+* Railsconf 2014 in Chicago
+* Chicago Webconf
 
 Some of the most successful people in tech owe their success more to their community participation than they do being a hardcore programmer.
+
+"Find the most talented person in the room, and if it’s not you, go stand next to them. Hang out with them. Try to be helpful."
+
 
 # Who to Follow on Twitter
 * techmeme - tech news
