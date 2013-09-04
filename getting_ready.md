@@ -15,19 +15,20 @@ Creatng a [BootBoard](http://bootboard.devbootcamp.com/) profile should be your 
 * [Pixar's 22 Rules of Storytelling (For writing your about me and telling your story about your path to becoming a programmer so far)](http://aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/)
 * [How to get the word out about your startup (Most of which also applies to "How to get the word out about your new skills and the fact you're interested in talking to companies")](http://www.fastcolabs.com/3014157/open-company/how-to-really-get-the-word-out-about-your-startup)
 * [Code to Code By - Great post highlighting what employers care about](http://www.brighttag.com/2012/03/01/a-code-to-code-by/)
+* [Create a Great Resume](http://jobs.rubynow.com/create-a-great-rails-resume)
 
 ## Cover Letters
 
 * [Forget the Resume, kill on the cover letter](http://37signals.com/svn/posts/1748-forget-the-resume-kill-on-the-cover-letter)
 
 ## Resume
-Have Elliot, your mentor(s) and me take a look at your resumes. Here are some of the basics you'll want to include:
+Have Elliott, Stephanie, your mentor(s), your instructors take a look at your resumes. Here are some of the basics you'll want to include:
 
 __Header:__ Name, Address, Phone Number, email, github, personal site
 
-__About Me:__ short and sweet blurb about you
+__About Me:__ short and sweet blurb about you 
 
-__Skills:__ Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, TDD. Active Record, Git, jQuery, HAML, SASS, SQL (PostgreSQL and Sqlite) Heroku.Do you have any other skills you bring from a previous career?
+__Skills:__ Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, TDD. Active Record, Git, jQuery, HAML, SASS, SQL (PostgreSQL and Sqlite) Heroku. Do you have any other skills you bring from a previous career?
 
 __Personal Projects:__ What are you proud of? Show it off!
 
@@ -65,10 +66,13 @@ Put each of the projects you're proud of at Dev Bootcamp (Say, final project, ph
 
 Some examples of personal sites:
 
-* [Mitch](http://dontmitch.github.io/)
-* [Andrew](http://www.devsquirrel.com/dev)
-* [Codesnippets (Liz)](http://www.codesnippets.io/)
-* [Trevor Turk](http://trevorturk.com/37signals/)
+* [Mitch (Squirrel 2013)](http://dontmitch.github.io/)
+* [Andrew (Squirrel 2013)](http://www.devsquirrel.com/dev)
+* [Liz (Fox 2013)](http://www.codesnippets.io/)
+* [Ben (Otter 2013)](http://bendyorke.com/)
+
+* [Trevor Turk](http://trevorturk.com)
+* [Trevor Turk's custome site which got him hired at 37 Signals](http://trevorturk.com/37signals)
 * [Sites that landed jobs at 37 Signals](http://37signals.com/svn/posts/2709-sites-that-landed-jobs-at-37signals)
 
 __SHOW PROGRESS__ Don't hide your 'bad' early work. Let the world know how you've grown. Humility is a highly prized value in this industry.
