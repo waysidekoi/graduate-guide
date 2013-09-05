@@ -89,12 +89,12 @@ Identify your gaps in knowledge. Plug those gaps __before__ the interview. If yo
 * self
 * public/protected/private
 * Enumberable
-  
+
 #### Javascript
-*
+
 
 #### Relational Databases
-*
+
 
 #### TDD
 * Can you actually TDD something simple? For example:
