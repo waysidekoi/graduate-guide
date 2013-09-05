@@ -47,43 +47,57 @@ title: Interviewing
 ### Plug your gaps
 Identify your gaps in knowledge. Plug those gaps __before__ the interview. If you're applying for a Junior Dev Full Stack position, consider these topics to be fair game:
 
-* OO Design Patterns
-  * Describe encapsulation. Open up an editor and code me an example of encapsulation.
-  * Desribe polymorphism. How is polymorphism accomplished in strongly typed languages? How is it accomplished in weakly typed languages?
-  * When would you use inheritence? What are it's benefits and drawbacks?
-  * What is a class?
-  * What is an object? Are only instances of classes objects?
-* Standard Algorithms -- You don't need to memorize these, but should be able to implement them given a description.
-  * Sorting (insertion, merge, bubble)
-  * Linear Search
-  * Binary Search
-* Data structures (be able to implement these in the language of your choice)
-  * Array
-  * Hash
-  * Linked List, Double Linked List
-  * Set
-* How the internet works
-  * What's the difference between the internet and the web?
-  * What are some common networking protocols?
-  * What is DNS?
-  * What's an IP address?
-  * What is a packet?
-  * What does routing do?
-* How HTTP works
-  * Desribe an HTTP request and response.
-  * HTTP is stateless, what does that mean?
-  * What technique is used to track state over HTTP?
-  * What is an HTTP response code? What are some common codes?
-* Plain ol' Ruby
-  * Classes
-  * Modules
-  * Objects
-  * class methods, instance methods
-  * method_missing
-  * Blocks/procs/lamdas
-  * self
-  * public/protected/private
-  * Enumberable
-* Plain ol' Javascript
-* TDD
-  * Can you write an rspec test outside of Rails?
+#### OO Design Patterns
+* Describe encapsulation. Open up an editor and code me an example of encapsulation.
+* Desribe polymorphism. How is polymorphism accomplished in strongly typed languages? How is it accomplished in weakly typed languages?
+* When would you use inheritence? What are it's benefits and drawbacks?
+* What is a class?
+* What is an object? Are only instances of classes objects?
+  
+#### Standard Algorithms -- You don't need to memorize these, but should be able to implement them given a description.
+* Sorting (insertion, merge, bubble)
+* Linear Search
+* Binary Search
+  
+#### Data structures (be able to implement these in the language of your choice)
+* Array
+* Hash
+* Linked List, Double Linked List
+* Set
+  
+#### How the internet works
+* What's the difference between the internet and the web?
+* What are some common networking protocols?
+* What is DNS?
+* What's an IP address?
+* What is a packet?
+* What does routing do?
+  
+#### How HTTP works
+* Desribe an HTTP request and response.
+* HTTP is stateless, what does that mean?
+* What technique is used to track state over HTTP?
+* What is an HTTP response code? What are some common codes?
+  
+#### Ruby
+* Classes
+* Modules
+* Objects
+* class methods, instance methods
+* method_missing
+* Blocks/procs/lamdas
+* self
+* public/protected/private
+* Enumberable
+  
+#### Javascript
+*
+
+#### Relational Databases
+*
+
+#### TDD
+* Can you actually TDD something simple? For example:
+  * A program to score a bowling game
+  * A method that finds the greatest common divisor of two numbers?
+* Can you write an rspec test outside of Rails?
